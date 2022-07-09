@@ -9,7 +9,7 @@
 
 # Known Issues
 
-* Wooshy may hang sometimes if you're using it to open its own Preferences while the selected tab is Location.
+* Wooshy may hang _sometimes_ if you're using it to open its own Preferences while the selected tab is Position.
 no idea why yet.
 
 # Roadmap
