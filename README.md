@@ -7,6 +7,10 @@
 
 ---
 
+# The Site
+
+[wooshy.app](https://wooshy.app) for the handsome marketing thing. looks like it's using Comic Sans MS but it's not, i swear.
+
 # Known Issues
 
 * Wooshy may hang _sometimes_ if you're using it to open its own Preferences while the selected tab is Position.
