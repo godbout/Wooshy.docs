@@ -37,9 +37,9 @@ but will require the user to type more properly (can still show what is typed a 
 ## maybe
 
 - [ ] (30%) find a way to bring any visible window to the foreground and become the frontmost window.
-Alfred only works for apps, not windows, and sometimes you can't even grab the main window if it's background app.
+Alfred only works for apps, not windows, and sometimes you can't even grab the main window if it's a background app.
 - [ ] (10%) grab not only Targets from the frontmost window, but all visible windows.
-(although that may polute the results and ultimately be harder to reach what one wants.)
+(although that may pollute the results and ultimately be harder to reach what one wants.)
 - [ ] (2%) OCR support.
 through the Accessibility we grab whole objects, but not specific words in text.
 sometimes we may want to target a specific word, or to access objects that are not accessible (e.g. the individual sections in Alfre's Preferences sidebar).
