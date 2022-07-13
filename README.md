@@ -23,9 +23,10 @@ no idea why yet.
 - [ ] video explaining the Search and Target Navigation
 - [ ] show possible matching terms for any potential Target while hovering over them when The Input is showing.
 this is necessary for Targets that don't have text like icons, images, etc.
-- [ ] multi monitors support
-- [ ] find a way to make the Targets stand out on light backgrounds
+- [x] multi monitors support
+- [x] find a way to make the Targets stand out on light backgrounds
 - [ ] improve clicking. some places don't register the click (e.g. App Store, own account at bottom left)
+- [ ] **for several reasons, this will not be a part of Wooshy. this will be done through a free Alfred Workflow instead**.~~(30%) find a way to bring any visible window to the foreground and become the frontmost window.~~
 
 ## v1+
 
