@@ -28,6 +28,7 @@ this is necessary for Targets that don't have text like icons, images, etc.
 - [ ] improve clicking. some places don't register the click (e.g. App Store, own account at bottom left)
 - [ ] **for several reasons, this will not be a part of Wooshy. this will be done through a free Alfred Workflow instead**.~~(30%) find a way to bring any visible window to the foreground and become the frontmost window.~~
 - [ ] handle double clicks. at first i thought it was not necessary as you can open anything with `⌘o` but some places, at least in the new macOS Ventura, require double clicks (shit iOS-style bs)
+- [ ] be able to target Notifications
 
 ## v1+
 
