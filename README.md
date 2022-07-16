@@ -11,6 +11,59 @@
 
 [wooshy.app](https://wooshy.app) for the handsome marketing thing. looks like it's using Comic Sans MS but it's not, i swear.
 
+# Manual
+
+## Search
+
+Wooshy will search through UI elements' metadata, i.e. labels, titles, values, tooltips, types etc.
+
+Wooshy's philosophy is to avoid navigation.
+rather, you do a gross search, and if needed you narrow down to (hopefully) the specific target you want.
+that sounds slower but it's actually way more natural. the way it works is:
+
+1. you type part of what you're looking for
+2. if you have multiple results, you narrow down the results with a... _narrower_
+
+e.g. you want something with `bacon`:
+
+| search term     | narrower | matches                                                   | whole typing                                   
+| :---:            | :---:    |  :---:                                                     | :---:
+| `bacon`           |          | anything that contains "bacon" (will not match pig sorry) | `bacon`
+| `bacon`           | `^`        | anything that starts with "bacon"                         | `bacon ^` 
+| `bacon`           | `$`        | anything that ends with "bacon"                           | `bacon $`
+| `bacon`           | `!`        | anything that is exactly "bacon"                          | `bacon !`
+| `the bacon`       | `tab`      | anything that contains "the bacon" and is a tab :))       | `the bacon tab`
+
+the search term can also be:
+1. a star (`*`) that will show all the UI elements that you can target
+2. a type of UI element. don't think too much, just type. e.g. tab, radio, checkbox, button, pop up, toggle. (you never need to type the whole... type, just part of it is enough most of the time.)
+
+## Navigation
+
+if you still need or want to navigate through the results, you can with:
+
+| target         | key | 
+| :---:           | :---:
+| next           | `tab` or `down` or `control n`
+| previous        | `shift tab` or `up` or `control p`
+| first           | `command up`
+| last           | `command down`
+| halfway up       | `control up`
+| halfway down       | `control down`
+
+if you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to the `Key Mapping` Family. then you'll be able to navigate with Vim moves by entering Normal Mode and:
+
+| target         | kindaVim move | 
+| :---:           | :---: 
+| next           | `j` or `down` or `control j` or `control n`
+| previous        | `k` or `up` or `control p`
+| first           | `gg`
+| last           | `G`
+| halfway up       | `control b` or `control u` 
+| halfway down       | `control f` or `control d`
+
+
+
 # Known Issues
 
 * Wooshy may hang _sometimes_ if you're using it to open its own Preferences while the selected tab is Position.
