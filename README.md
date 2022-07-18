@@ -79,7 +79,7 @@ this is necessary for Targets that don't have text like icons, images, etc.
 - [x] multi monitors support
 - [x] find a way to make the Targets stand out on light backgrounds
 - [ ] improve clicking. some places don't register the click (e.g. App Store, own account at bottom left)
-- [ ] **for several reasons, this will not be a part of Wooshy. this will be done through a free Alfred Workflow instead**.~~(30%) find a way to bring any visible window to the foreground and become the frontmost window.~~
+- [ ] **this has been done as an [Alfred Workflow](https://github.com/godbout/WooshyWindowToTheForeground)**.~~(30%) find a way to bring any visible window to the foreground and become the frontmost window.~~
 - [ ] handle double clicks. at first i thought it was not necessary as you can open anything with `⌘o` but some places, at least in the new macOS Ventura, require double clicks (shit iOS-style bs)
 - [ ] be able to target Notifications
 
@@ -93,7 +93,6 @@ but will require the user to type more properly (can still show what is typed a 
 ## maybe
 
 - [ ] (70%) fuzzy search. maybe not wholly fuzzy, but also not just the first letter of words. more like you can type the beginning of a word, a space, and the beginning of another word
-- [x] **this has be done as an [Alfred Workflow](https://github.com/godbout/WooshyWindowToTheForeground)** ~~(70%) add possibility to bring any window to the foreground in order to target it. Alfred only works for apps, not windows, and sometimes you can't even grab the main window if it's a background app.~~
 - [ ] (10%) grab not only Targets from the frontmost window, but all visible windows.
 (although that may pollute the results and ultimately be harder to reach what one wants.)
 - [ ] (2%) OCR support.
