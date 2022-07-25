@@ -62,13 +62,6 @@ if you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to t
 | halfway up       | `control b` or `control u` 
 | halfway down       | `control f` or `control d`
 
-
-
-# Known Issues
-
-* Wooshy may hang _sometimes_ if you're using it to open its own Preferences while the selected tab is Position.
-no idea why yet.
-
 # Roadmap
 
 ## alpha/beta
