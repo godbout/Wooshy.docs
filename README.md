@@ -15,7 +15,7 @@
 
 The alphas and betas are free (of course!) and have an expiry date of currently 30 days.
 Once v1 is out, the License is a mere coffee a month (USD$3.28 excl. tax).
-You'll still be able to use Wooshy without a subscription, but it'll take some naps as the day goes by. Software have feelings too!
+You'll still be able to use Wooshy without a subscription, but it will take some naps as the day goes by. Software have feelings too!
 
 # Manual
 
