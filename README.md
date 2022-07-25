@@ -80,6 +80,10 @@ What would be Wooshy without all the clicks. Currently you can click the Primary
 | `shift return`         | shift click
 | `command return`       | command click
 
+# Need to bring any macOS window to the foreground?
+
+Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](https://github.com/godbout/WooshyWindowToTheForeground).
+
 # Roadmap
 
 ## alpha/beta
