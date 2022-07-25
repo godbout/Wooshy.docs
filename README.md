@@ -62,6 +62,18 @@ if you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to t
 | halfway up       | `control b` or `control u` 
 | halfway down       | `control f` or `control d`
 
+## Click
+
+What would be Wooshy without all the clicks. Currently you can click the Primary Target with:
+
+| keyboard               | mouse equivalent | 
+| :---:                  | :---: 
+| `return`               | left click
+| `control return`       | right click
+| `option return`        | option click
+| `shift return`         | shift click
+| `command return`       | command click
+
 # Roadmap
 
 ## alpha/beta
