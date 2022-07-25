@@ -26,13 +26,13 @@ That sounds slower but it's actually way more natural. The way it works is:
 
 E.g. you want something with `bacon`:
 
-| search term     | narrower | matches                                                   | whole typing                                   
-| :---:            | :---:    |  :---:                                                     | :---:
-| `bacon`           |          | anything that contains "bacon" (will not match pig sorry) | `bacon`
-| `bacon`           | `^`        | anything that starts with "bacon"                         | `bacon ^` 
-| `bacon`           | `$`        | anything that ends with "bacon"                           | `bacon $`
-| `bacon`           | `!`        | anything that is exactly "bacon"                          | `bacon !`
-| `the bacon`       | `tab`      | anything that contains "the bacon" and is a tab :))       | `the bacon tab`
+| search term       | narrower   | matches                                                    | whole typing                                   
+| :---:             | :---:      |  :---:                                                     | :---:
+| `bacon`           |            | anything that contains "bacon" (will not match pig sorry)  | `bacon`
+| `bacon`           | `^`        | anything that starts with "bacon"                          | `bacon ^` 
+| `bacon`           | `$`        | anything that ends with "bacon"                            | `bacon $`
+| `bacon`           | `!`        | anything that is exactly "bacon"                           | `bacon !`
+| `the bacon`       | `tab`      | anything that contains "the bacon" and is a tab :))        | `the bacon tab`
 
 The search term can also be:
 1. a star (`*`) that will show all the UI elements that you can target
@@ -42,25 +42,25 @@ The search term can also be:
 
 If you still need or want to navigate through the results, you can with:
 
-| target         | key | 
+| target          | key | 
 | :---:           | :---:
-| next           | `tab` or `down` or `control n`
+| next            | `tab` or `down` or `control n`
 | previous        | `shift tab` or `up` or `control p`
 | first           | `command up`
-| last           | `command down`
-| halfway up       | `control up`
-| halfway down       | `control down`
+| last            | `command down`
+| halfway up      | `control up`
+| halfway down    | `control down`
 
 If you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to the `Key Mapping` Family. Then you'll be able to navigate with Vim moves by entering Normal Mode and:
 
-| target         | kindaVim move | 
+| target          | kindaVim move | 
 | :---:           | :---: 
-| next           | `j` or `down` or `control j` or `control n`
+| next            | `j` or `down` or `control j` or `control n`
 | previous        | `k` or `up` or `control p`
 | first           | `gg`
-| last           | `G`
-| halfway up       | `control b` or `control u` 
-| halfway down       | `control f` or `control d`
+| last            | `G`
+| halfway up      | `control b` or `control u` 
+| halfway down    | `control f` or `control d`
 
 ## Click
 
