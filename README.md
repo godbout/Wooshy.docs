@@ -66,7 +66,7 @@ if you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to t
 
 ## alpha/beta
 
-- [ ] video explaining the Search and Target Navigation
+- [x] video explaining the Search and Target Navigation
 - [ ] show possible matching terms for any potential Target while hovering over them when The Input is showing.
 this is necessary for Targets that don't have text like icons, images, etc.
 - [x] multi monitors support
