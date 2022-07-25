@@ -38,7 +38,7 @@ the search term can also be:
 1. a star (`*`) that will show all the UI elements that you can target
 2. a type of UI element. don't think too much, just type. e.g. tab, radio, checkbox, button, pop up, toggle. (you never need to type the whole... type, just part of it is enough most of the time.)
 
-## Navigation
+## Navigate
 
 if you still need or want to navigate through the results, you can with:
 
