@@ -9,7 +9,7 @@
 
 # The Site
 
-[wooshy.app](https://wooshy.app) for the handsome marketing thing. looks like it's using Comic Sans MS but it's not, i swear.
+[wooshy.app](https://wooshy.app) for the handsome marketing thing. Looks like it's using Comic Sans MS but it's not, I swear.
 
 # Manual
 
@@ -18,13 +18,13 @@
 Wooshy will search through UI elements' metadata, i.e. labels, titles, values, tooltips, types etc.
 
 Wooshy's philosophy is to avoid navigation.
-rather, you do a gross search, and if needed you narrow down to (hopefully) the specific target you want.
-that sounds slower but it's actually way more natural. the way it works is:
+Rather, you do a gross search, and if needed you narrow down to (hopefully) the specific target you want.
+That sounds slower but it's actually way more natural. The way it works is:
 
 1. you type part of what you're looking for
 2. if you have multiple results, you narrow down the results with a... _narrower_
 
-e.g. you want something with `bacon`:
+E.g. you want something with `bacon`:
 
 | search term     | narrower | matches                                                   | whole typing                                   
 | :---:            | :---:    |  :---:                                                     | :---:
@@ -34,13 +34,13 @@ e.g. you want something with `bacon`:
 | `bacon`           | `!`        | anything that is exactly "bacon"                          | `bacon !`
 | `the bacon`       | `tab`      | anything that contains "the bacon" and is a tab :))       | `the bacon tab`
 
-the search term can also be:
+The search term can also be:
 1. a star (`*`) that will show all the UI elements that you can target
-2. a type of UI element. don't think too much, just type. e.g. tab, radio, checkbox, button, pop up, toggle. (you never need to type the whole... type, just part of it is enough most of the time.)
+2. a type of UI element. Don't think too much, just type. e.g. tab, radio, checkbox, button, pop up, toggle. (You never need to type the whole... type, just part of it is enough most of the time.)
 
 ## Navigate
 
-if you still need or want to navigate through the results, you can with:
+If you still need or want to navigate through the results, you can with:
 
 | target         | key | 
 | :---:           | :---:
@@ -51,7 +51,7 @@ if you still need or want to navigate through the results, you can with:
 | halfway up       | `control up`
 | halfway down       | `control down`
 
-if you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to the `Key Mapping` Family. then you'll be able to navigate with Vim moves by entering Normal Mode and:
+If you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to the `Key Mapping` Family. Then you'll be able to navigate with Vim moves by entering Normal Mode and:
 
 | target         | kindaVim move | 
 | :---:           | :---: 
@@ -80,7 +80,7 @@ What would be Wooshy without all the clicks. Currently you can click the Primary
 
 - [x] video explaining the Search and Target Navigation
 - [ ] show possible matching terms for any potential Target while hovering over them when The Input is showing.
-this is necessary for Targets that don't have text like icons, images, etc.
+This is necessary for Targets that don't have text like icons, images, etc.
 - [x] multi monitors support
 - [x] find a way to make the Targets stand out on light backgrounds
 - [ ] improve clicking. some places don't register the click (e.g. App Store, own account at bottom left)
