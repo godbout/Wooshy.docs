@@ -32,7 +32,7 @@ That sounds slower but it's actually way more natural. The way it works is:
 
 E.g. you want something with `bacon`:
 
-| search term       | narrower   | matches                                                    | whole typing                                   
+|  term             | narrower   | matches                                                    | whole typing                                   
 | :---:             | :---:      |  :---:                                                     | :---:
 | `bacon`           |            | anything that contains "bacon" (will not match pig sorry)  | `bacon`
 | `bacon`           | `^`        | anything that starts with "bacon"                          | `bacon ^` 
@@ -40,9 +40,12 @@ E.g. you want something with `bacon`:
 | `bacon`           | `!`        | anything that is exactly "bacon"                           | `bacon !`
 | `the bacon`       | `tab`      | anything that contains "the bacon" and is a tab :))        | `the bacon tab`
 
-The search term can also be:
-1. a star (`*`) that will show all the UI elements that you can target
-2. a type of UI element. Don't think too much, just type. e.g. tab, radio, checkbox, button, pop up, toggle. (You never need to type the whole... type, just part of it is enough most of the time.)
+**You do NOT need to type the whole search term or narrower**. You can type `bac butt` for a bacon button. Actually even `b b` might get your target, depending on the context.
+But you currently need to type your letters in order, space included. There's no fuzzy matching. It may come later, but from experience, typing letters in order is faster than _thinking_ how to fuzzy match. You don't want to think. (At least not in this context.)
+
+The term can also be:
+1. a star—`*`—that will show all the UI elements that you can target
+2. a type of UI element. Don't think too much, just start typing. E.g.: tab, radio, checkbox, button, pop up, toggle, switch, etc. Again, you do not need to type the whole thing. `check`, or `ch` will probably find all the checkboxes.
 
 ## Navigate
 
