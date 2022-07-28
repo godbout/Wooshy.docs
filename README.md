@@ -70,7 +70,9 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to t
 
 ## Click
 
-What would be Wooshy without all the clicks. Currently you can click the Primary Target with:
+What would be Wooshy without all the clicks.
+
+If The Input™ is empty, Wooshy will click at the current mouse position. Else, it'll go click the Primary Target. The available clicks are:
 
 | keyboard               | mouse equivalent | 
 | :---:                  | :---: 
@@ -79,6 +81,12 @@ What would be Wooshy without all the clicks. Currently you can click the Primary
 | `option return`        | option click
 | `shift return`         | shift click
 | `command return`       | command click
+
+You can also just move the mouse without clicking. It is less fun though:
+
+| keyboard               | mouse equivalent | 
+| :---:                  | :---: 
+| `shift command return` | run over there 
 
 # Need to bring any macOS window to the foreground?
 
