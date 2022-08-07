@@ -35,6 +35,10 @@ So you can start typing a bit, and if you have too many Targets, you can type th
 
 E.g.:
 
+https://user-images.githubusercontent.com/121373/183301798-b1d8425e-bbe0-4a31-93bf-21ad3ea1495e.mp4
+
+https://user-images.githubusercontent.com/121373/183301804-cf157bfa-ad0b-46d7-9eec-301fab48088e.mp4
+
 The term can also be a star—`*`-that will show you all the UI elements that you can target.
 
 ## Navigate
