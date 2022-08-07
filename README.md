@@ -33,7 +33,7 @@ This is possible thanks to:
 **You do NOT need to type the whole search term to match**. Part of it is enough.
 So you can start typing a bit, and if you have too many Targets, you can type the beginning of completely other word in order to narrow down.
 
-e.g.:
+E.g.:
 
 The term can also be a star—`*`-that will show you all the UI elements that you can target.
 
