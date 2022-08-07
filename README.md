@@ -31,7 +31,7 @@ This is possible thanks to:
 2. filtering by type: if you need to filter even more, you can specify the type of UI element you want
 
 **You do NOT need to type the whole search term to match**. Part of it is enough.
-So you can start typing a bit, and if you have too many Targets, you can type the beginning of completely other word in order to narrow down.
+So you can start typing a bit, and if you have too many Targets, then you can type the beginning of completely other word in order to narrow down your search.
 
 E.g.:
 
@@ -112,7 +112,7 @@ but will require the user to type more properly (can still show what is typed a 
 
 ## maybe
 
-- [ ] (70%) fuzzy search. maybe not wholly fuzzy, but also not just the first letter of words. more like you can type the beginning of a word, a space, and the beginning of another word
+- [x] (70%) fuzzy search. maybe not wholly fuzzy, but also not just the first letter of words. more like you can type the beginning of a word, a space, and the beginning of another word
 - [ ] (10%) grab not only Targets from the frontmost window, but all visible windows.
 (although that may pollute the results and ultimately be harder to reach what one wants.)
 - [ ] (2%) OCR support.
