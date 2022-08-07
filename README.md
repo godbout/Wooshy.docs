@@ -21,31 +21,21 @@ You'll still be able to use Wooshy without a subscription, but it will take some
 
 ## Search
 
-Wooshy will search through UI elements' metadata, i.e. labels, titles, values, tooltips, types etc.
+Wooshy will search through UI elements' metadata, i.e. labels, titles, values, tooltips, placeholders, types etc.
 
 Wooshy's philosophy is to avoid navigation.
-Rather, you do a gross search, and if needed you narrow down to (hopefully) the specific target you want.
-That sounds slower but it's actually way more natural. The way it works is:
+Rather, you start with a gross search, and if needed you narrow down to (hopefully) the specific target you want to reach.
+This is possible thanks to:
 
-1. you type part of what you're looking for
-2. if you have multiple results, you narrow down the results with a... _narrower_
+1. fuzz matching: Wooshy will look for beginning of words, in any order
+2. filtering by type: if you need to filter even more, you can specify the type of UI element you want
 
-E.g. you want something with `bacon`:
+**You do NOT need to type the whole search term to match**. Part of it is enough.
+So you can start typing a bit, and if you have too many Targets, you can type the beginning of completely other word.
 
-|  term             | narrower   | matches                                                    | whole typing                                   
-| :---:             | :---:      |  :---:                                                     | :---:
-| `bacon`           |            | anything that contains "bacon" (will not match pig sorry)  | `bacon`
-| `bacon`           | `^`        | anything that starts with "bacon"                          | `bacon ^` 
-| `bacon`           | `$`        | anything that ends with "bacon"                            | `bacon $`
-| `bacon`           | `!`        | anything that is exactly "bacon"                           | `bacon !`
-| `the bacon`       | `tab`      | anything that contains "the bacon" and is a tab :))        | `the bacon tab`
+e.g.:
 
-**You do NOT need to type the whole search term or narrower**. You can type `bac butt` for a bacon button. Actually even `b b` might get your target, depending on the context.
-But you currently need to type your letters in order, space included. There's no fuzzy matching. It may come later, but from experience, typing letters in order is faster than _thinking_ how to fuzzy match. You don't want to think. (At least not in this context.)
-
-The term can also be:
-1. a star—`*`—that will show all the UI elements that you can target
-2. a type of UI element. Don't think too much, just start typing. E.g.: tab, radio, checkbox, button, pop up, toggle, switch, etc. Again, you do not need to type the whole thing. `check`, or `ch` will probably find all the checkboxes.
+The term can also be a star—`*`-that will show you all the UI elements that you can target.
 
 ## Navigate
 
