@@ -31,7 +31,7 @@ This is possible thanks to:
 2. filtering by type: if you need to filter even more, you can specify the type of UI element you want
 
 **You do NOT need to type the whole search term to match**. Part of it is enough.
-So you can start typing a bit, and if you have too many Targets, you can type the beginning of completely other word.
+So you can start typing a bit, and if you have too many Targets, you can type the beginning of completely other word in order to narrow down.
 
 e.g.:
 
