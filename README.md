@@ -21,25 +21,25 @@ You'll still be able to use Wooshy without a subscription, but it will take some
 
 ## Search
 
-Wooshy will search through UI elements' metadata, i.e. labels, titles, values, tooltips, placeholders, types etc.
+Wooshy searches through UI elements' metadata, i.e. labels, titles, values, tooltips, placeholders, types etc.
+Some of this metadata is visible on the screen, while some is hidden behind the scenes. Currently you can see the hidden metadata with the Accessibility Inspector that comes bundled with Xcode. At a later stage—before the v1 release—an integrated solution will be available in Wooshy.
 
 Wooshy's philosophy is to avoid navigation.
-Rather, you start with a gross search, and if needed you narrow down to (hopefully) the specific target you want to reach.
-This is possible thanks to:
+Rather, you start with a gross search—just a few letters—and if needed you narrow down to the specific target you want to reach by typing a few more letters.
+This is possible thanks to: 
 
-1. fuzz matching: Wooshy will look for beginning of words, in any order
-2. filtering by type: if you need to filter even more, you can specify the type of UI element you want
+1. fuzz matching: Wooshy will look for parts of different words, in any order. it's up to you
+2. element role: you can specify the role of the UI element you want, again in any order
 
-**You do NOT need to type the whole search term to match**. Part of it is enough.
-So you can start typing a bit, and if you have too many Targets, then you can type the beginning of completely other word in order to narrow down your search.
+So basically the usage is best way to use Wooshy is: 1) you type a bit 2) if you've reached your Target, congratulations 3) if not, continue your current word, or add a new one to the search by adding a space, and start typing more 3) keep doing until you reach your Target 4) or you can also navigate between the Targets highlighted.
 
-E.g.:
+If that sounds complicated, just have a look at the examples below:
 
 https://user-images.githubusercontent.com/121373/183301798-b1d8425e-bbe0-4a31-93bf-21ad3ea1495e.mp4
 
 https://user-images.githubusercontent.com/121373/183301804-cf157bfa-ad0b-46d7-9eec-301fab48088e.mp4
 
-The term can also be a star—`*`-that will show you all the UI elements that you can target.
+The term can also be a star—`*`—that will show you all the UI elements that you can target.
 
 ## Navigate
 
