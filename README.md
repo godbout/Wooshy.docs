@@ -28,7 +28,7 @@ Wooshy's philosophy is to avoid navigation.
 Rather, you start with a gross search—just a few letters—and if needed you narrow down to the specific target you want to reach by typing a few more letters.
 This is possible thanks to: 
 
-1. fuzz matching: Wooshy will look for parts of different words, in any order. it's up to you
+1. fuzzy matching: Wooshy will look for parts of different words, in any order. it's up to you
 2. element role: you can specify the role of the UI element you want, again in any order
 
 So basically the usage is best way to use Wooshy is: 1) you type a bit 2) if you've reached your Target, congratulations 3) if not, continue your current word, or add a new one to the search by adding a space, and start typing more 3) keep doing until you reach your Target 4) or you can also navigate between the Targets highlighted.
