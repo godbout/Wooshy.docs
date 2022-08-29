@@ -85,6 +85,15 @@ You can also just move the mouse without clicking. It is less fun though:
 | :---:                  | :---: 
 | `shift command return` | run over there 
 
+# APIs
+
+Wooshy sends [Distributed Notifications](https://developer.apple.com/documentation/foundation/distributednotificationcenter) to macOS when you activate and deactivate The Input.
+You can listen to those Notifications with external tools like [BetterTouchTool](https://www.google.com/search?q=bettertouchtool) or [Hammerspoon](https://www.hammerspoon.org) and build your own custom workflows as a result of those Notifications.
+
+The Notifications Names are:
+* WooshyInputDidAppear
+* WooshyInputDidDisappear
+
 # Need to bring any macOS window to the foreground?
 
 Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](https://github.com/godbout/WooshyWindowToTheForeground).
