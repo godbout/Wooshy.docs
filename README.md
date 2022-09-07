@@ -67,7 +67,7 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to t
 
 ## Click
 
-What would be Wooshy without all the clicks.
+What would be Wooshy without all the clicks:
 
 | keyboard               | on the Primary Target |
 | :---:                  | :---: 
