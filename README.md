@@ -97,6 +97,11 @@ You can also just move the mouse without clicking. It is less fun though:
 | :---:                  | :---: 
 | `shift command return` | run over there 
 
+## Copy
+
+`⌘C` on a Primary Target will copy the visible (or descriptive for icons, images, etc.) text.
+Add any modifier key (`⌃`, `⌥`, or `⇧`) to copy the metadata instead. I.e. the URL for links, status for checkboxes, tabs, radiobuttons, etc.
+
 # APIs
 
 Wooshy sends [Distributed Notifications](https://developer.apple.com/documentation/foundation/distributednotificationcenter) to macOS when you activate and deactivate The Input.
