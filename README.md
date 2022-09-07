@@ -90,7 +90,7 @@ You can also just move the mouse without clicking. It is less fun though:
 ## Copy
 
 `⌘C` on a Primary Target will copy the visible (or descriptive for icons, images, etc.) text.
-Add any modifier key (`⌃`, `⌥`, or `⇧`) to copy the metadata instead, i.e., the URL for links, status for checkboxes, tabs, radiobuttons, etc.
+Add any modifier key (`⌃`, `⌥`, or `⇧` to `⌘C`) to copy the metadata instead, i.e., the URL for links, status for checkboxes, tabs, radiobuttons, etc.
 
 # APIs
 
