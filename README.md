@@ -69,25 +69,15 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to t
 
 What would be Wooshy without all the clicks.
 
-### when The Input™ is not empty
-
-| keyboard               | action |
+| keyboard               | on the Primary Target |
 | :---:                  | :---: 
-| `return`               | `left click` on the Primary Target
-| `control return`       | `right click` on the Primary Target
-| `option return`        | `option click` on the Primary Target
-| `shift return`         | `shift click` on the Primary Target
-| `command return`       | `command click` on the Primary Target
+| `return`               | `left click`
+| `control return`       | `right click`
+| `option return`        | `option click`
+| `shift return`         | `shift click`
+| `command return`       | `command click`
 
-### when The Input™ is empty
-
-| keyboard               | action | 
-| :---:                  | :---: 
-| `return`               | `left click` at current mouse position
-| `control return`       | `right click` at current mouse position
-| `option return`        | `option click` at current mouse position
-| `shift return`         | `shift click` at current mouse position
-| `command return`       | `command click` at current mouse position
+If The Input™ is empty and therefore not Primary Target is selected, Wooshy will click at the current mouse position instead. Magic!
 
 ## Just Move the Mouse
 
