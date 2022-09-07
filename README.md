@@ -77,7 +77,7 @@ What would be Wooshy without all the clicks.
 | `shift return`         | `shift click`
 | `command return`       | `command click`
 
-If The Input™ is empty and therefore not Primary Target is selected, Wooshy will click at the current mouse position instead. Magic!
+If The Input™ is empty and therefore no Primary Target is selected, Wooshy will click at the current mouse position instead. Magic!
 
 ## Just Move the Mouse
 
