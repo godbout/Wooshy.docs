@@ -129,11 +129,11 @@ but will require the user to type more properly (can still show what is typed a 
 ## maybe
 
 - [x] (70%) fuzzy search. maybe not wholly fuzzy, but also not just the first letter of words. more like you can type the beginning of a word, a space, and the beginning of another word
-- [ ] (10%) grab not only Targets from the frontmost window, but all visible windows.
-(although that may pollute the results and ultimately be harder to reach what one wants.)
-- [ ] (2%) OCR support.
+- [ ] ~~(10%) grab not only Targets from the frontmost window, but all visible windows.
+(although that may pollute the results and ultimately be harder to reach what one wants.)~~
+- [ ] ~~(2%) OCR support.
 through the Accessibility we grab whole objects, but not specific words in text.
-sometimes we may want to target a specific word, or to access objects that are not accessible (e.g. the individual sections in Alfre's Preferences sidebar).
+sometimes we may want to target a specific word, or to access objects that are not accessible (e.g. the individual sections in Alfre's Preferences sidebar).~~
 
 # Alternatives
 
