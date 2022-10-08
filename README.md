@@ -112,19 +112,18 @@ Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](h
 - [x] video explaining the Search and Target Navigation
 - [ ] show possible matching terms for any potential Target while hovering over them when The Input is showing.
 This is necessary for Targets that don't have text like icons, images, etc.
-- [ ] multi monitors support (current Targets and clicks supported, but not Input position)
+- [x] multi monitors support (current Targets and clicks supported, but not Input position)
 - [x] find a way to make the Targets stand out on light backgrounds
 - [x] improve clicking. some places don't register the click (e.g. App Store, own account at bottom left)
 - [x] **this has been done as an [Alfred Workflow](https://github.com/godbout/WooshyWindowToTheForeground)**.~~(30%) find a way to bring any visible window to the foreground and become the frontmost window.~~
-- [ ] handle double clicks. at first i thought it was not necessary as you can open anything with `⌘o` but some places, at least in the new macOS Ventura, require double clicks (shit iOS-style bs)
-- [ ] be able to target Notifications
 
 ## v1+
 
 - [ ] add a mode without The Input showing, so that focus is not stolen from macOS.
 this will allow using Wooshy for menu contents, popovers, notifications, etc.
+- [ ] handle double clicks. at first i thought it was not necessary as you can open anything with `⌘o` but some places, at least in the new macOS Ventura, require double clicks (shit iOS-style bs)
 but will require the user to type more properly (can still show what is typed a la kV Characters Window, and allow for delete of last character, etc.).
-- [ ] allow customization of Targets visual properties
+- [ ] ~~allow customization of Targets visual properties~~
 
 ## maybe
 
