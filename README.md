@@ -124,15 +124,7 @@ this will allow using Wooshy for menu contents, popovers, notifications, etc.
 - [ ] handle double clicks. at first i thought it was not necessary as you can open anything with `⌘o` but some places, at least in the new macOS Ventura, require double clicks (shit iOS-style bs)
 but will require the user to type more properly (can still show what is typed a la kV Characters Window, and allow for delete of last character, etc.).
 - [ ] ~~allow customization of Targets visual properties~~
-
-## maybe
-
-- [x] (70%) fuzzy search. maybe not wholly fuzzy, but also not just the first letter of words. more like you can type the beginning of a word, a space, and the beginning of another word
-- [ ] ~~(10%) grab not only Targets from the frontmost window, but all visible windows.
-(although that may pollute the results and ultimately be harder to reach what one wants.)~~
-- [ ] ~~(2%) OCR support.
-through the Accessibility we grab whole objects, but not specific words in text.
-sometimes we may want to target a specific word, or to access objects that are not accessible (e.g. the individual sections in Alfre's Preferences sidebar).~~
+- [ ] different flavors of fuzzy search (Alfred, Launchbar, Raycast, etc.)
 
 # Alternatives
 
