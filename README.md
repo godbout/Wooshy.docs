@@ -140,3 +140,4 @@ sometimes we may want to target a specific word, or to access objects that are n
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
 * [Homerow](https://www.homerow.app) (closed source, one time purchase)
 * [Superkey](https://superkey.app) (closed source, one time purchase)
+* [VimMotionApp](https://github.com/dwarvesf/VimMotionApp) (closed source, free)
