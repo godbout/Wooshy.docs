@@ -22,7 +22,8 @@ You'll still be able to use Wooshy without a subscription, but it will take some
 ## Search
 
 Wooshy searches through UI elements' metadata, i.e. labels, titles, values, tooltips, placeholders, types etc.
-Some of this metadata is visible on the screen, while some is hidden behind the scenes. Currently you can see the hidden metadata with the Accessibility Inspector that comes bundled with Xcode. At a later stage—before the v1 release—an integrated solution will be available in Wooshy.
+Some of this metadata is visible on the screen, while some is hidden behind the scenes. 
+To discover all the terms you can use to reach a Target, check out [The Inspector 🕵️‍♂️️](hehe.hehe)
 
 Wooshy's philosophy is to avoid navigation.
 Rather, you start with a gross search—just a few letters—and if needed you narrow down to the specific target you want to reach by typing a few more letters.
@@ -40,6 +41,12 @@ https://user-images.githubusercontent.com/121373/183301798-b1d8425e-bbe0-4a31-93
 https://user-images.githubusercontent.com/121373/183301804-cf157bfa-ad0b-46d7-9eec-301fab48088e.mp4
 
 The term can also be a star—`*`—that will show you all the UI elements that you can target.
+
+## The Inspector 🕵️‍♂️️
+
+While Wooshying, hover over potential Targets to get The Inspector 🕵️‍♂️️ to investigate and let you know which terms will reach them.
+Especially useful for icons, images, buttons without text, etc. But you can use it anywhere to perfect your search skills on pages or apps that you use frequently.
+
 
 ## Navigate
 
