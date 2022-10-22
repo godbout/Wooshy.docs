@@ -23,7 +23,7 @@ You'll still be able to use Wooshy without a subscription, but it will take some
 
 Wooshy searches through UI elements' metadata, i.e. labels, titles, values, tooltips, placeholders, types etc.
 Some of this metadata is visible on the screen, while some is hidden behind the scenes. 
-To discover all the terms you can use to reach a Target, check out [The Inspector 🕵️‍♂️️](hehe.hehe)
+To discover all the terms you can use to reach a Target, check out [The Inspector 🕵️‍♂️️](#the-inspector-%EF%B8%8F%EF%B8%8F%EF%B8%8F)
 
 Wooshy's philosophy is to avoid navigation.
 Rather, you start with a gross search—just a few letters—and if needed you narrow down to the specific target you want to reach by typing a few more letters.
