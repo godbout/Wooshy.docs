@@ -62,7 +62,7 @@ If you still need or want to navigate through the results, you can with:
 | halfway up      | `control up`
 | halfway down    | `control down`
 
-If you use [kindaVim](https://github.com/godbout/kindaVim.docs), add Wooshy to the `Key Mapping` Family. Then you'll be able to navigate with Vim moves by entering Normal Mode and:
+If you use [kindaVim](https://github.com/godbout/kindaVim.docs), then you'll be able to navigate with Vim moves by entering Normal Mode and:
 
 | target          | kindaVim move | 
 | :---:           | :---: 
