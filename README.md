@@ -78,13 +78,14 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), then you'll be 
 
 What would be Wooshy without all the clicks:
 
-| keyboard               | on the Primary Target |
-| :---:                  | :---: 
-| `return`               | `left click`
-| `control return`       | `right click`
-| `option return`        | `option click`
-| `shift return`         | `shift click`
-| `command return`       | `command click`
+| keyboard                                          | on the Primary Target |
+| :---:                                             | :---: 
+| `return`                                          | `left click`
+| `control return`                                  | `right click`
+| `option return`                                   | `option click`
+| `shift return`                                    | `shift click`
+| `command return`                                  | `command click`
+| `fn return` or `control option command return`    | `double left click`
 
 If The Input™ is empty and therefore no Primary Target is selected, Wooshy will click at the current mouse position instead. Magic!
 
