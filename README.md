@@ -22,11 +22,15 @@ Yes software have feelings but hey Wooshy time to grow up!
 
 ## Search
 
+### What does Wooshy search through?
+
 Wooshy searches through UI elements' metadata, i.e. labels, titles, values, tooltips, placeholders, types etc.
 Some of this metadata is visible on the screen, while some is hidden behind the scenes. 
 To discover all the terms you can use to reach a Target, check out [The Inspector 🕵️‍♂️️](#the-inspector-%EF%B8%8F%EF%B8%8F%EF%B8%8F)
 
-Wooshy's philosophy is to avoid navigation.
+### The Art of Searching
+
+**Wooshy's philosophy is to avoid navigation**.
 Rather, you start with a gross search—just a few letters—and if needed you narrow down to the specific target you want to reach by typing a few more letters.
 This is possible thanks to: 
 
@@ -35,7 +39,7 @@ This is possible thanks to:
 
 So basically the best way to use Wooshy is: 1) you type a bit 2) if you've reached your Target, congratulations 3) if not, continue your current word, or add a new one to the search by adding a space, and start typing more 3) keep doing until you reach your Target 4) or you can also navigate between the Targets highlighted.
 
-If that sounds complicated, just have a look at the examples below:
+For example to specifically target a `Log in` button, you could type `log but`. See the videos below for more examples:
 
 https://user-images.githubusercontent.com/121373/183301798-b1d8425e-bbe0-4a31-93bf-21ad3ea1495e.mp4
 
