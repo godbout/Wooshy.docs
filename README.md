@@ -14,7 +14,7 @@
 # License
 
 Wooshy is young and tends to take random naps 🥺️
-If you're willing to let it take a rest from time to time then you're all set.
+If you're willing to let him take a rest from time to time then you're all set.
 Else you may consider treating Wooshy [one coffee a month](https://subscribe.wooshy.app).
 Yes software have feelings but hey Wooshy time to grow up!
 
