@@ -120,13 +120,13 @@ The Notifications Names are:
 ## Custom URLs
 
 You can control Wooshy programmatically by calling the following Custom URLs:
-* open The Input: wooshy://openTheInput
-* close The Input: wooshy://closeTheInput
-* toggle The Input: wooshy://toggleTheInput
+* open The Input: `wooshy://openTheInput`
+* close The Input: `wooshy://closeTheInput`
+* toggle The Input: `wooshy://toggleTheInput`
 
 You can pass a URL query to fill The Input and start searching through UI Elements right away:
-* open: wooshy://openTheInput?with=rick%20astley
-* toggle: wooshy://toggleTheInput?with=ryan%reynolds
+* open: `wooshy://openTheInput?with=rick%20astley`
+* toggle: `wooshy://toggleTheInput?with=ryan%reynolds`
 
 
 # Need to bring any macOS window to the foreground?
