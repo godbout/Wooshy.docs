@@ -133,14 +133,7 @@ You can pass a URL query to fill The Input and start searching through UI Elemen
 
 Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](https://github.com/godbout/WooshyWindowToTheForeground).
 
-# Roadmap
-
-* ~80% will do: add a mode without The Input showing, so that focus is not stolen from macOS. this will allow using Wooshy for menu contents, popovers, notifications, etc.
-* ~~90% will do: handle double clicks. at first i thought it was not necessary as you can open anything with `⌘o` but some places, at least in the new macOS Ventura, require double clicks (shit iOS-style bs) but will require the user to type more properly (can still show what is typed a la kV Characters Window, and allow for delete of last character, etc.).~~
-* ~~70% will do: different flavors of fuzzy search (Alfred, Launchbar, Raycast, etc.)~~
-* ~70% will do: continuous mode. keep showing The Input as long as you don't press the hotkey
-
-# Alternatives
+# Alternatives to Wooshy
 
 * [Shortcat](https://shortcatapp.com) (closed source, one time purchase)
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
