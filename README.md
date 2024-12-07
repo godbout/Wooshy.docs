@@ -51,7 +51,7 @@ The term can also be a star—`*`—that will show you all the UI elements that 
 
 While Wooshying, hover over potential Targets to get The Inspector 🕵️‍♂️️ to investigate and let you know which terms will reach them.
 Especially useful for icons, images, buttons without text, etc. But you can use it anywhere to perfect your search skills on pages or apps that you use frequently.
-You can also use The Inspector 🕵️‍♂️️ with [the keyboard](#call-the-inspector-%EF%B8%8F%EF%B8%8F%EF%B8%8F).
+You can also call The Inspector 🕵️‍♂️️ with [your keyboard](#call-the-inspector-%EF%B8%8F%EF%B8%8F%EF%B8%8F).
 
 https://user-images.githubusercontent.com/121373/197319091-6ade5f0f-5647-4cf2-af9a-b799cb27ebb7.mp4
 
