@@ -18,7 +18,7 @@ If you're willing to let him take a rest from time to time then you're all set.
 Else you may consider treating Wooshy [one coffee a month](https://subscribe.wooshy.app).
 Yes software have feelings but hey Wooshy time to grow up!
 
-# Manual
+# Usage
 
 ## Search
 
@@ -51,7 +51,11 @@ The term can also be a star—`*`—that will show you all the UI elements that 
 
 While Wooshying, hover over potential Targets to get The Inspector 🕵️‍♂️️ to investigate and let you know which terms will reach them.
 Especially useful for icons, images, buttons without text, etc. But you can use it anywhere to perfect your search skills on pages or apps that you use frequently.
-You can also call The Inspector 🕵️‍♂️️ with [your keyboard](#call-the-inspector-%EF%B8%8F%EF%B8%8F%EF%B8%8F).
+You can also call The Inspector 🕵️‍♂️️ with [your keyboard](#call-the-inspector-%EF%B8%8F%EF%B8%8F%EF%B8%8F):
+
+| keyboard                                          | on the Primary Target |
+| :---:                                             | :---: 
+| `command h` or `command i` or `shift command /`   | show The Inspector 🕵️‍♂️️'s discoveries
 
 https://user-images.githubusercontent.com/121373/197319091-6ade5f0f-5647-4cf2-af9a-b799cb27ebb7.mp4
 
@@ -101,12 +105,6 @@ You can also just move the mouse without clicking. It is less fun though:
 | keyboard               | mouse equivalent | 
 | :---:                  | :---: 
 | `shift command return` | run over there 
-
-## Call The Inspector 🕵️‍♂️️
-
-| keyboard                                          | on the Primary Target |
-| :---:                                             | :---: 
-| `command h` or `command i` or `shift command /`   | show The Inspector 🕵️‍♂️️'s discoveries
 
 ## Copy
 
