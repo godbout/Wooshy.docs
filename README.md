@@ -138,6 +138,12 @@ You can pass a URL query to fill The Input and start searching through UI Elemen
 
 Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](https://github.com/godbout/WooshyWindowToTheForeground).
 
+# Roadmap
+
+* stop stealing focus so that all those new macOS popovers don't disappear (requires a big rewrite)
+* Text Selection Popover feature so that you can forward text found by Wooshy to other apps (https://github.com/godbout/Wooshy.docs/issues/151)
+* find a way to fix the issue where clicking behind The Input doesn't work (not as easy as it should be...)
+
 # Alternatives to Wooshy
 
 * [Shortcat](https://shortcatapp.com) (closed source, one time purchase)
