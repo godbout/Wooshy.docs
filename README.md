@@ -142,7 +142,6 @@ Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](h
 
 * stop stealing focus so that all those new macOS popovers don't disappear (requires a big rewrite)
 * Text Selection Popover feature so that you can forward text found by Wooshy to other apps (https://github.com/godbout/Wooshy.docs/issues/151)
-* find a way to fix the issue where clicking behind The Input doesn't work (not as easy as it should be...)
 
 # Alternatives to Wooshy
 
