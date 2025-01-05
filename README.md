@@ -143,7 +143,7 @@ Try our free, open-source Alfred Workflow: [Wooshy: Window to the Foreground!](h
 * stop stealing focus so that all those new macOS popovers don't disappear (requires a big rewrite)
 * Text Selection Popover feature so that you can forward text found by Wooshy to other apps (https://github.com/godbout/Wooshy.docs/issues/151)
 
-# Alternatives to Wooshy
+# Alternatives
 
 * [Shortcat](https://shortcatapp.com) (closed source, one time purchase)
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
